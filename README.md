@@ -137,7 +137,7 @@ Atualmente, me especializo no desenvolvimento Full Stack com JavaScript, TypeScr
 
 ### ✉️ Entre em contato comigo
 
-- **Email:** diego.9090dd@gmail.com
+ **Email:** diego.9090dd@gmail.com
 
 <p align="left">
   <a href="#" title="Gmail">
